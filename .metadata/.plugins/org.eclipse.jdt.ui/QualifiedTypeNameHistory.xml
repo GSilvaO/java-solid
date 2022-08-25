@@ -2,4 +2,8 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.com.alura.rh.model.Funcionario"/>
+    <fullyQualifiedTypeName name="br.com.alura.rh.model.Cargo"/>
+    <fullyQualifiedTypeName name="br.com.alura.rh.model.DadosPessoais"/>
+    <fullyQualifiedTypeName name="br.com.alura.rh.service.tributacao.ReajusteTributavel"/>
 </qualifiedTypeNameHistroy>
